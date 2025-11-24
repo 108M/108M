@@ -3,7 +3,7 @@ Estudiante de Ingieneria Informatica en la UPNA en 4.º curso
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/markel-alvarez-alonso) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/markel-alvarez-alonso-65013a360) 
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:alvarezalonsomarkel@gmail.com) 
 
 # 💻 Tech Stack:
